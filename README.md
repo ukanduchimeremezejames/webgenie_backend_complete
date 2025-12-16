@@ -1,5 +1,5 @@
 git clone https://github.com/ukanduchimeremezejames/webgenie_backend_complete
-cd webgenie_backend
+cd webgenie_backend_complete
 python -m venv venv
 source venv/bin/activate
 venv\Scripts\activate (CMD) or
