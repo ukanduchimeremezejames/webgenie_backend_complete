@@ -1,4 +1,4 @@
-git clone https://github.com/ukanduchimeremezejames/webgenie_backend
+git clone https://github.com/ukanduchimeremezejames/webgenie_backend_complete
 cd webgenie_backend
 python -m venv venv
 source venv/bin/activate
