@@ -6,4 +6,3 @@ alembic
 pydantic
 python-dotenv
 pytest
-httpx
